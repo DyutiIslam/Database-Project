@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>WE CARE</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+    <link href="css/main.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#datepicker" ).datepicker();
+  } );
+  </script>
+
+  
+    </head>
+	<body>
+    
+
+    <section id="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="container-fluid">
+              <nav class="navbar navbar-default">
+                  <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Home</a></li>
+                   
+					  <li class="dropdown">
+                          <a class="dropdown-toggle"  data-toggle="dropdown" href="#">Take A Test
+                          <span class="caret"></span></a>
+			  <ul class=dropdown-menu>
+			      <li><a href="test.html">Depression</a></li>
+			      <li><a href="Selfesteem.html">Self-Esteeme</a></li>
+			      <li><a href="Insomonia.html">Insomonia</a></li>
+				  <li><a href="anxiety.html">Anxiety</a></li>
+				  <li><a href="Personality.html">Personality</a></li>
+			  </ul>
+			  </li>
+					  
+					  <li class="dropdown">
+                          <a class="dropdown-toggle"  data-toggle="dropdown" href="#">Get Help
+                          <span class="caret"></span></a>
+			  <ul class=dropdown-menu>
+			      <li><a href="Mental health.html">Mental Health</a></li>
+			      <li><a href="Personal Growth.html">Personal Growth</a></li>
+			      <li><a href="LOVE.html">Emotion Management</a></li>
+				  <li><a href="Help.html">Talk To Someone </a></li>
+			  </ul>
+			  </li>
+					  
+                      <li><a href="forum.html">Forum</a></li>
+					  <li><a href="#"> </a></li>
+					  <li><a href="#"></a></li>
+                      
+                  </ul>
+                  <ul class="nav navbar-nav navbar-right">
+                      <li><a href="#myModal" data-toggle="modal" data-target="#myModal">Log In</a></li>
+                      <li><a href="signup2.php">Sign Up</a></li>
+                  </ul>
+              </nav>
+                
+                <div class="modal fade" id="myModal">
+	            <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                <h4 class="modal-title">Log-in</h4>
+                            </div>
+                            <div class="modal-body">
+                                <div class="form-group">
+    		                    <label for="exampleInputEmail1">Email address</label>
+    		                    <input class="form-control" id="exampleInputEmail1" placeholder="Enter email" type="email">
+  		                </div>
+		                <div class="form-group">
+		  	            <label for="exampleInputPassword1">Password</label>
+			            <input class="form-control" id="exampleInputPassword1" placeholder="Password" type="password">
+		                </div>
+                                    <p class="text-right"><a href="#">Forgot password?</a></p>
+                            </div>
+                            <div class="modal-footer">
+                                <a href="#" data-dismiss="modal" class="btn">Close</a>
+                                <a href="#" class="btn btn-primary">Log-in</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h1>Make your mental health a priority<br>
+              We care for you <br>
+			           You will be okay<br>
+					   
+            </h1>
+			<!--
+            <div class="b-container">
+              <button class="b1"></button>
+              <button class="b2"></button>
+              <button class="b3"></button>
+			  <button class="b3"></button>
+			  -->
+			  
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+	
+	<section id="search">
+      <div class="container">
+        <div class="row">
+          <div class="box-sizing">
+            <h1>WE CARE</h1>
+            <div class="th-separator" style="width:5%; height:1px; background-color:#a8926b; margin-left: 380px;"></div>
+            <p style="font-size: 18px; padding-top:5px;"> We Care it is an initiative by the students of Department of Computer 
+			Science And engineering,Daffodil International University 
+			in collaboration with DIU Mental Health Forum.This group stoods by those who has lost their self confidence and feels no one cares for them.
+             Storms don't last forever...So Stand up and smile.Feel positive because "WE CARE" for you.   
+             </p>
+          </div>
+        </div>
+      </div>
+    </section>
+	
+	<section id="major_work">
+        <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="box_2">
+                 <h1 style="color: #fff; padding-top: 10px;">About Us </h1>
+				
+                 <div class="th-separator" style="width:5%; height:2px; background-color:#a8926b; margin-left: 580px;"></div>
+                 <div class="mj_image">
+                     <div class="col-md-4">
+                         <img src="images/mote.png" alt="img" width="180" height="150">
+                         <p style="color: #fff;"> Our Moto
+						 <p style="color: #fff;" >Working For a Better World</p2>
+						 </p>
+                     </div>
+                     
+                     <div class="col-md-4">
+                         <img src="images/Rez.jpg" alt="img" width="180" height="150">
+                         <p style="color: #fff;">Our Team
+						 <p style="color: #fff;">Strong Dynamic and always<br>
+						 there to support<p>
+						 </p>
+                     </div>
+                     
+                     <div class="col-md-4">
+                         <img src="images/seminar.jpg" alt="img" width="180" height="150">
+                         <p style="color: #fff;">Activites
+						 <p style="color: #fff;" >Online and Offline Activites
+						 </p>
+                     </div>
+                 </div>
+                </div>
+              </div>
+            </div>
+        </div>
+
+    
+      
+    
+          
+    </section>
+      <section id="inside">
+          <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="box_3">
+                      <h1>OUR WORK </h1>
+                      <div class="th-separator" style="width:5%; height:2px; background-color:#a8926b; margin-left: 520px;"></div>
+                      <div class="in_image">
+                          <div class="col-md-4">
+                              <img src="images/cons.jpg" class="img-circle" alt="in+img" width="300" height="230">
+                              <h4>Consult</h4>
+                          </div>
+                          <div class="col-md-4">
+                              <img src="images/semin.jpg" class="img-round" alt="in+img" width="300" height="230">
+                              <h4>Seminer</h4>
+                          </div>
+                          <div class="col-md-4">
+                              <img src="images/group.jpg" class="img-circle" alt="in+img" width="300" height="230">
+                              <h4>Group session</h4>
+                          </div>
+                      </div>
+                  </div>      
+                </div>
+              </div>
+          </div>
+      </section>
+      
+      <section id="footer">
+          <div class="container-fluid">
+              <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                      <div class="tools">
+                          <div class="col-md-3">
+                              <h3>JOIN US</h3>
+							  <P>Donate<P>
+							  <P>FeedBack<P>
+                              <img src="images/health.jpg" alt="partner" width="100" height="80">
+                          </div>
+                          <div class="col-md-3">
+                              <h3>WE CARE</h3>
+                              <p>You will be okay!Just keep Going</p>
+                              <p>Events</p>
+                              <p>Photo Gallery</p>
+                              <p>FAQ</p>
+                          </div>
+                          <div class="col-md-3">
+                              <h2>CONTACT DETAILS</h2><br>
+                              <p>"WE CARE"<p>
+							  <p>DIU MENTAL HEALTH Forum<P>
+							  <P>102,Mirpur Road,Dhaka-1207<p>
+							  <p>wwww.wecare.org<P>
+							  <P>+088 0181-841-7797<P>
+							  <P>+088 0196-981-0437<P>
+							  <P>+088 0179-933-2737</p>
+                          </div>
+                          <div class="col-md-3">
+                              <h3>FOLLOW US</h3>
+                              <img src="images/fb.jpg" class="img-round" alt="partner" width="40" height="30">
+                              <img src="images/twiter.jpg" class="img-square" alt="partner" width="40" height="30">
+                              <img src="images/youtube.jpg" class="img-sa\square" alt="partner" width="40" height="30">
+                          </div>
+                      </div>
+                  </div>
+                  
+              </div>
+          </div>
+      </section>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
+
